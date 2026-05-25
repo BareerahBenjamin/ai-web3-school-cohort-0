@@ -1,35 +1,40 @@
-# Learner Profile / 学员画像
+# 学员画像
 
-> Last updated: 2026-05-18
+> 最后更新：2026-05-25
 
-## Summary / 摘要
+## 摘要
 
-| Dimension | Level / 水平 |
-|-----------|----------------|
-| AI foundation | 有基础 / Intermediate |
-| Web3 foundation | 有基础 / Intermediate |
-| Programming | 能独立开发 / Independent developer |
-| Daily time | 2+ hours / 每日 2 小时以上 |
-| Output language | 双语 / Bilingual (ZH + EN) |
+| 维度 | 水平 |
+|------|------|
+| AI 基础 | 有基础 |
+| Web3 基础 | 有基础 |
+| 编程能力 | 能独立开发 |
+| 每日投入 | 2 小时以上 |
+| 文档语言 | 中文（对外技术产出可保留英文术语） |
 
-## Goals / 目标方向
+## 目标方向
 
-Primary tracks (parallel):
+并行推进三条线：
 
-1. **Development** — ship prototypes with Agent + Web3 tooling
-2. **Product research** — map problems, users, and AI×Web3 boundaries
-3. **Hackathon** — end-to-end demo with verifiable on-chain or workflow proof
+1. **开发** — Agent + Web3 工具链可运行原型
+2. **产品研究** — 用户问题、边界与价值假设文档化
+3. **黑客松** — 可演示的端到端 MVP（含权限约束层）
 
-## Learning preferences / 学习偏好
+## 学习偏好
 
-- Prefer **minimum path** on busy days, **challenge path** when energy is high
-- Document experiments in `experiments/`; keep daily rhythm in `daily/`
-- Handbook questions → `handbook-feedback/` with page URL and suggested fix
-- Formal check-ins on WCB / platform — Agent drafts only; learner submits manually
+- 忙日用 **最小路径**，精力充足时用 **挑战路径**
+- 实验写入 `experiments/`，节奏写入 `daily/`
+- Handbook 问题 → `handbook-feedback/`（附页面链接与建议改法）
+- WCB / 打卡平台：**Agent 只生成草稿，由学员手动提交**
 
-## Reminders / 提醒设置
+## 知识库
 
-- Morning check-in: _not set / 未设置_
-- Evening check-in: _not set / 未设置_
+- 本地 Obsidian：`G:\obsidian\Karpathy-wiki-demo`
+- 索引入口：`wiki/知识地图.md`（与本仓库 `projects/项目计划.md` 对齐）
 
-_Update this file when your schedule or goals change._
+## 提醒设置
+
+- 早间打卡提醒：未设置
+- 晚间打卡提醒：未设置
+
+目标或日程变化时请更新本文件。

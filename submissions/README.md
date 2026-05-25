@@ -1,12 +1,12 @@
-# Submissions
+# 提交记录
 
-Record formal submissions (WCB, hackathon, cohort check-in).
+正式提交（WCB、黑客松、共学打卡）在此留档。
 
-## Entry format
+## 条目格式
 
-Create `YYYY-MM-DD-platform-slug.md` with:
+新建 `YYYY-MM-DD-平台-简述.md`，包含：
 
-- Platform name
-- Submission URL or ID
-- Related commit / demo link in this repo
-- Date submitted (manual confirmation)
+- 平台名称
+- 提交链接或 ID
+- 本仓库相关 commit / demo 链接
+- 手动确认提交日期

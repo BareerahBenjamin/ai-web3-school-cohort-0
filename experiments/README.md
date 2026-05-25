@@ -1,5 +1,10 @@
-# Experiments
+# 实验目录
 
-Spikes, prototypes, and demos. Prefer small folders per experiment: `YYYY-MM-DD-slug/`.
+按 MVP 阶段分子目录，建议命名：
 
-Never commit secrets, private keys, or production API keys.
+- `阶段1-单机演示/`
+- `阶段2-可交互原型/`
+- `阶段3-链上只读/`
+- `阶段4-有限执行/`
+
+勿提交密钥、助记词或生产环境 API Key。

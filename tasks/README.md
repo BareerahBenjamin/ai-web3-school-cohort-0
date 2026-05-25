@@ -1,5 +1,10 @@
-# Tasks
+# 任务目录
 
-Course and WCB task notes. One file per task or per week — use `../templates/task-note.md`.
+存放课程与 WCB 任务记录。每周一个文件，或使用 `templates/任务笔记.md` 单条记录。
 
-After each WCB sync, add or update a task file with links from the [Learning tab](https://web3career.build/zh/programs/AI-Web3-School#tab=learning).
+同步入口：[WCB Learning](https://web3career.build/zh/programs/AI-Web3-School#tab=learning)
+
+## 当前任务文件
+
+- `week-01-知识库对齐.md`
+- `week-02-交叉与实验.md`（进行中）

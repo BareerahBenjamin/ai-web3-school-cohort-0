@@ -1,33 +1,34 @@
-# Handbook Feedback / 手册反馈
+# Handbook 反馈
 
-Contributions here feed the open Handbook improvement loop. Each file is one issue or suggestion.
+此处记录对开源 Handbook 的问题与改进建议，供共建与索引分析。
 
-## When to add feedback / 何时记录
+## 何时记录
 
-- Concept unclear / 概念不清楚
-- Typo or outdated link / 错别字或过期链接
-- Missing example or diagram / 缺少示例或图解
-- Structure suggestion / 结构建议
-- Security or accuracy concern / 安全或准确性问题
+- 概念不清楚
+- 错别字或过期链接
+- 缺少示例或图解
+- 结构建议
+- 安全或准确性疑虑
 
-## File naming / 命名
+## 文件命名
 
-`YYYY-MM-DD-short-slug.md` — e.g. `2026-05-18-agent-wallet-session-keys.md`
+`YYYY-MM-DD-简短描述.md`  
+示例：`2026-05-25-agent-wallet-session-key.md`
 
-## Required fields / 必填字段
+## 必填字段
 
-Use `templates/feedback.md`. Every entry must include:
+使用 `templates/反馈模板.md`，每条须包含：
 
-1. **Handbook page URL** (exact section)
-2. **Problem description** (ZH + EN if bilingual)
-3. **Suggested change** (concrete: wording, example, link)
-4. **Source** — where you found the issue (reading note, experiment, WCB task)
+1. Handbook 页面 URL（精确到章节）
+2. 问题描述
+3. 建议改法（具体：措辞、示例、链接）
+4. 来源（daily、实验、WCB 任务、Obsidian 阅读笔记）
 
-## Workflow / 流程
+## 流程
 
-1. Learn → hit a gap → copy `templates/feedback.md` to this folder
-2. Link the feedback file from your `daily/YYYY-MM-DD.md`
-3. Commit and push (public, indexable)
-4. Optional: mention in community sync / WCB discussion when relevant
+1. 学习中发现缺口 → 复制模板到本目录
+2. 在 `daily/YYYY-MM-DD.md` 中链接该反馈文件
+3. commit 并 push（公开可索引）
+4. 可选：在共学或 WCB 讨论中提及
 
-Do **not** include secrets, private URLs, or others' personal data.
+勿包含密钥、私有链接或他人个人数据。
